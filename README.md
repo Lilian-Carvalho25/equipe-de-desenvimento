@@ -6,6 +6,8 @@ Esse é um site que fiz para praticar react.js, e aprimorar os meus conhecimento
 - Adicionar colaboradores de forma prática <br>
 - Código limpo e totalmente livre de erros <br> <br>
 
+<img src="https://i.imgur.com/TQGY2hK.png" width="600px" />
+
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
 <div align="left">
@@ -16,5 +18,14 @@ Esse é um site que fiz para praticar react.js, e aprimorar os meus conhecimento
 <br>
 
 ###
+
+## Instalação
+
+Instale o projeto com npm:
+
+```bash
+  npm install
+  npm start
+```
 
 **Link do site:** <i>[clique aqui](https://organo-mocha-theta.vercel.app/) <br>
