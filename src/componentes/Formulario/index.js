@@ -6,8 +6,6 @@ import { useState } from "react";
 
 const Formulario = (props) => {
 
-
-
     const [nome, setNome] = useState(' ')
     const [cargo, setCargo] = useState(' ')
     const [imagem, setImagem] = useState(' ')
@@ -30,6 +28,7 @@ const Formulario = (props) => {
     <section className="formulario">
         <form onSubmit={aoSalvar}>
             <h2>Preencha os dados para criar o card do colaborador</h2>
+            <p>Quando você adiciona alguém, a mágica acontece!</p>
             <CampoTexto
              obrigatorio={true}
               label="Nome" 
